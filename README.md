@@ -1,6 +1,6 @@
 ## Hi, mikoaf here! 👋
 
-# Just a person who still need learning about programming, especially in IoT and embedded systems.
+# I'm just someone who's still learning about programming, especially for IoT and embedded systems.
 
 <!--
 **mikoaf/mikoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
