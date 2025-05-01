@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, mikoaf here! 👋
+
+# Just a person who still need learning about programming, especially in IoT and embedded systems.
 
 <!--
 **mikoaf/mikoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoaf&theme=dark&langs_count=10)
