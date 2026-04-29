@@ -17,6 +17,20 @@
 <a href="https://www.instagram.com/mikoaf02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/miko-alfandi-firmansyah-5815a420a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<div id="user-content-toc">
+  <ul>
+    <summary><h3 style="display: inline-block">🐍 My Contributions</h3></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikoaf/mikoaf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikoaf/mikoaf/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mikoaf/mikoaf/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoaf&theme=dark&langs_count=10)
 -->
