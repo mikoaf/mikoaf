@@ -17,11 +17,8 @@
 <a href="https://www.instagram.com/mikoaf02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/miko-alfandi-firmansyah-5815a420a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## <img src="https://cdn3.emoji.gg/emojis/793128-partycat.gif" width="50px"> My Contributions
 <div id="user-content-toc">
-  <ul>
-    <summary><h3 style="display: inline-block">🐍 My Contributions</h3></summary>
-  </ul>
-</div>
 
 <div align="center">
   <picture>
